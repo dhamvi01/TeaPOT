@@ -6,4 +6,4 @@ TPOT is an open-source library for performing AutoML in Python. It makes use of 
 
 TPOT uses a tree-based structure to represent a model pipeline for a predictive modeling problem, including data preparation and modeling algorithms and model hyperparameters.
 
-Let's use T-pot to 
+Let's use T-pot for species classification
